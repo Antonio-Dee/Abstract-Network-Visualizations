@@ -1,6 +1,6 @@
 # Abstract-Network-Visualizations
 
-Here are collected all results of the method presented in our thesis: "*M. Bianchi, A. De Santis: A Human-in-the-Loop Approach for Post-hoc Explainability of CNN-based Image Classification*".
+Here are collected all results of the method presented in the thesis "*M. Bianchi, A. De Santis: A Human-in-the-Loop Approach for Post-hoc Explainability of CNN-based Image Classification*".
 
 ## Local Explanations
 
