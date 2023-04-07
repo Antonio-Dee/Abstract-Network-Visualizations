@@ -8,4 +8,4 @@ All local explanations are collected in the folder "Local Explanations". To ease
 
 ## Global Explanations
 
-All explanations are collected in the folder "Global Explanations" as images.
+All global explanations are collected in the folder "Global Explanations" as images. We provide one image per class showing the 6 best labels for each group of layer considered, and one image with the six best labels of each class considering all 9 layers of the network considered in the experiment.
